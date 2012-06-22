@@ -1,0 +1,1 @@
+web: lein run -m neo4j-jdbc.core
